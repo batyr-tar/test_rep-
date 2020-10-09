@@ -18,3 +18,7 @@ contents:
         content:
           - type: text
             text: Test
+      - type: paragraph
+        content:
+          - type: text
+            text: test2_synch
